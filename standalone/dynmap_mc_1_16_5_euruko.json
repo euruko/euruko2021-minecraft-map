@@ -1,12 +1,10 @@
 {"currentcount": 0,"hasStorm": false,"players": []
-,"isThundering": false,"confighash": -692261142,"servertime": 351,"updates": [{"type": "tile","name": "flat\/0_-1\/zz_0_-4.png","timestamp": 1622819897194}
-,{"type": "tile","name": "flat\/0_0\/zzzz_0_0.png","timestamp": 1622819897200}
-,{"type": "tile","name": "t\/-1_0\/zz_-16_0.png","timestamp": 1622819897206}
-,{"type": "tile","name": "t\/-1_0\/zzzz_-16_0.png","timestamp": 1622819897214}
-,{"type": "tile","name": "t\/-2_0\/zzzzzz_-64_0.png","timestamp": 1622819897219}
-,{"type": "tile","name": "nw\/0_2\/zzzzzz_0_64.png","timestamp": 1622819897225}
-,{"type": "tile","name": "ct\/-1_-1\/zz_-4_-4.png","timestamp": 1622819897238}
-,{"type": "tile","name": "ct\/-1_0\/zzzz_-16_0.png","timestamp": 1622819897247}
-,{"type": "daynight","isday": true,"timestamp": 1622819898233}
+,"isThundering": false,"confighash": -609391609,"servertime": 19187,"updates": [{"type": "tile","name": "flat\/0_-1\/zz_0_-4.png","timestamp": 1622890471233}
+,{"type": "tile","name": "flat\/0_0\/zzzz_0_0.png","timestamp": 1622890471239}
+,{"type": "tile","name": "t\/-1_0\/zz_-16_0.png","timestamp": 1622890471245}
+,{"type": "tile","name": "t\/-1_0\/zzzz_-16_0.png","timestamp": 1622890471252}
+,{"type": "tile","name": "t\/-2_0\/zzzzzz_-64_0.png","timestamp": 1622890471257}
+,{"type": "tile","name": "ct\/-1_-1\/zz_-4_-4.png","timestamp": 1622890471271}
+,{"type": "tile","name": "ct\/-1_0\/zzzz_-16_0.png","timestamp": 1622890471279}
 ]
-,"timestamp": 1622819912733}
+,"timestamp": 1622890480242}
