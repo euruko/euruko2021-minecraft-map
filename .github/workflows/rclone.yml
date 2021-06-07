@@ -33,7 +33,7 @@ jobs:
           RCLONE_CONFIG_APEX_USER: ${{ secrets.RCLONE_CONFIG_APEX_USER }}
           RCLONE_CONFIG_APEX_PASS: ${{ secrets.RCLONE_CONFIG_APEX_PASS }}
         with:
-          args: sync -vv --ignore-size -P --exclude=".git/**" --exclude="CNAME" --exclude=".github/**" APEX:plugins/dynmap/web .
+          args: sync -vv --ignore-size --exclude=".git/**" --exclude="CNAME" --exclude=".github/**" APEX:plugins/dynmap/web .
 
       - uses: EndBug/add-and-commit@v7.2.1
         with:
